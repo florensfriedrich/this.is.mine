@@ -26,6 +26,6 @@ tl.fromTo(
   .fromTo(hamburger, 0.75, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5")
   .fromTo(headline, 1, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5")
   .fromTo(headline2, 1.2, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5")
-  .fromTo(headline3, 1, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5")
-  .fromTo(link2, 1, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5")
-  .fromTo(link1, 1, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5");
+  .fromTo(headline3, 0.8, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.4")
+  .fromTo(link2, 0.8, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.5")
+  .fromTo(link1, 0.8, { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, "-=0.6");
